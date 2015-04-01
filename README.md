@@ -1,3 +1,5 @@
+NOTE: This project has been merged with and superceded by Rob Rix's [Result](https://github.com/antitypical/Result) µframework.
+
 LlamaKit
 ========
 
